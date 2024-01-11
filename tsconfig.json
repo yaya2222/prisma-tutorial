@@ -8,4 +8,3 @@
   }
 }
 
-DATABASE_URL="mongodb+srv://yaya:<password>@cluster0.ygpeef3.mongodb.net/test"
